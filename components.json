@@ -1,0 +1,10 @@
+{
+  "style": "default",
+  "tailwind": {
+    "config": "tailwind.config.js",
+    "css": "src/styles/tailwind.css",
+    "baseColor": "slate"
+  },
+  "rsc": false,
+  "framework": "vue"
+}
