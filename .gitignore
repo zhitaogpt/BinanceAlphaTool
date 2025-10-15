@@ -4,3 +4,4 @@
 /.idea/
 /.claude/
 *.bat
+backend/__pycache__/
