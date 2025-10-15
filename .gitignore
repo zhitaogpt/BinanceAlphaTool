@@ -5,3 +5,6 @@
 /.claude/
 *.bat
 backend/__pycache__/
+.env
+.DS_Store
+backend/cookies.json
